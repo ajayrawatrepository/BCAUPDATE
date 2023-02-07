@@ -1,0 +1,35 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+header h1 {
+  text-align: center;
+}
+
+nav ul {
+  display: flex;
+  justify-content: space-between;
+  padding: 0;
+  list-style: none;
+}
+
+nav a {
+  display: block;
+  padding: 1em;
+  text-decoration: none;
+}
+
+main {
+  display: flex;
+  justify-content: space-between;
+}
+
+section {
+  width: 30%;
+  padding: 1em;
+}
+
+footer {
+  text-align: center;
+  padding: 1em;
+}
